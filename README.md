@@ -1,5 +1,4 @@
 # First-Project
-my first repository meant to be submitted on the vityarthi platform
 Guess The Number — Python Terminal Game
 Overview
 “Guess The Number” is a simple, interactive Python terminal game designed to give users a quick dopamine hit while sharpening their intuition. The game offers three difficulty levels, each with its own range and number of attempts. It’s beginner-friendly, lightweight, and runs straight from the terminal — no dependencies, no drama.
