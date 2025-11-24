@@ -45,13 +45,11 @@ Basic Control Structures (loops, conditionals, input/output)
 
 
 # Installation & Running the Project
-1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
 
-2. Navigate into the Project Folder
+1. Navigate into the Project Folder
 cd your-repo-name
 
-3. Run the Python File
+2. Run the Python File
 python guess_the_number.py
 
 
